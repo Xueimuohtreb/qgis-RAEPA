@@ -4760,14 +4760,6 @@ REVOKE ALL ON TABLE raepa.raepa_ouvr FROM "POSTGRES";
 REVOKE ALL ON TABLE raepa.raepa_ouvraep FROM "POSTGRES";
 
 
---
--- TOC entry 5015 (class 0 OID 0)
--- Dependencies: 320
--- Name: TABLE raepa_ouvraep_p; Type: ACL; Schema: raepa; Owner: POSTGRES
---
-
-GRANT ALL ON TABLE raepa.raepa_ouvraep_p TO "qgis_IUD_SIGC";
-
 
 --
 -- TOC entry 5020 (class 0 OID 0)
