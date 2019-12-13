@@ -40,9 +40,9 @@ Ce projet vise à mettre en place un outil de saisie du réseau d'eau potable en
 ## Table des matières
 
 - [Pré-requis](#prerequis)
-- [Guide administrateur](#Guide administrateur)
-- [Guide utilisateur](#Guide utilisateur)
-- [Améliorations possibles](#Améliorations possibles)
+- [Guide administrateur](#guide-administrateur)
+- [Guide utilisateur](#guide-utilisateur)
+- [Améliorations possibles](#ameliorations)
 
 
 ---
@@ -55,7 +55,7 @@ Ce projet vise à mettre en place un outil de saisie du réseau d'eau potable en
 - PostgreSQL / Postgis
 
 
-## Guide administrateur
+## Guide administrateur <a name="guide-administrateur"/>
 
 ### Installation
 
@@ -137,7 +137,7 @@ Le projet est donc largement personnalisable (ajout / suppression de champs, mod
 ---
 
 
-## Guide utilisateur 
+## Guide utilisateur <a name="guide-utilisateur"/>
 
 Les triggers ont été créé pour assurer une certaine sécurité dans la cohérence des données. Cependant, il reste nécessaire de bien suivre les consignes suivantes pour mettre à jour le réseau dans les différents cas possibles.
 Penser également à activer les macros au démarrage du projet pour profiter de toutes ses fonctionnalités. 
@@ -197,7 +197,7 @@ Dépend des configurations :
 
 
 
-## Améliorations possibles 
+## Améliorations possibles <a name="ameliorations"/>
 
 > De nombreuses amélioration du projet sont à prévoir...
 
