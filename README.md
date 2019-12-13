@@ -201,6 +201,7 @@ Dépend des configurations :
 
 > De nombreuses amélioration du projet sont à prévoir...
 
+- Développer la partie assainissement
 - Amélioration de la fluidité du projet QGis, notamment l'actualisation plus dynamique de la couche "Canalisation" lors du déplacement de noeuds
 - Recherche d'une solution plus perenne face au problème d'accrochage au géométrie. Lorsqu'une entité est saisie (exemple canalisation), l'accrochage a cette entité saisie n'est pas immédiat, et il est nécessaire de rafraîchir la couche. Face à ce problème, une solution temporaire a été mise en place, à travers les macros définis dans les propriétés du projet, de recharger le style de la couche dès qu'une géométrie est modifiée, pour forcer le rafraîchissement.
 - Toute autre suggestion améliorant la performance, la fluidité, ou la cohérence du projet...
