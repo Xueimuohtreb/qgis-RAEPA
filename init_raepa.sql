@@ -3309,37 +3309,6 @@ COPY raepa.raepa_canalass (idcana, typreseau, contcanass, fonccanass, zamont, za
 \.
 
 
---
--- TOC entry 4874 (class 0 OID 17008878)
--- Dependencies: 307
--- Data for Name: raepa_metadonnees; Type: TABLE DATA; Schema: raepa; Owner: POSTGRES
---
-
-COPY raepa.raepa_metadonnees (idraepa, qualglocxy, qualglocz, datemaj, sourmaj, dategeoloc, sourgeoloc, sourattrib, qualannee) FROM stdin;
-128637	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128639	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128641	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128642	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128644	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128646	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128648	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128650	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128653	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128655	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128657	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128660	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128651	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128664	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128673	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128662	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128675	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128677	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128670	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128671	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128658	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128668	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-128666	00	00	2019-12-12	Non renseigné	\N	\N	\N	\N
-\.
 
 
 --
