@@ -21,7 +21,7 @@
 
 Ce projet vise à mettre en place un outil de saisie du réseau d'eau potable en conformité avec le standard COVADIS, grâce aux outils QGis et PostgreSQL/PostGIS. Il s'agit donc, notamment grâce à des triggers déclarés dans PostgreSQL, de garantir la cohérence topologique du réseau, définie comme telle dans le standard :
 
-<a href="http://www.geoinformations.developpement-durable.gouv.fr/geostandard-reseaux-d-adduction-d-eau-potable-et-d-a3478.html/"><img src="https://raw.githubusercontent.com/Xueimuohtreb/RAEPA/master/img/topologie.png" title="Topologie" alt="Topologie"></a>
+<a href="http://www.geoinformations.developpement-durable.gouv.fr/geostandard-reseaux-d-adduction-d-eau-potable-et-d-a3478.html/"><img src="https://raw.githubusercontent.com/Xueimuohtreb/RAEPA/master/img/topologie.PNG" title="Topologie" alt="Topologie"></a>
 
 "- tout objet (ponctuel ou linéaire, nœud ou arc) est en relation topologique avec au moins un autre objet
 
