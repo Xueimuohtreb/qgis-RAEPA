@@ -23,15 +23,14 @@ Ce projet vise à mettre en place un outil de saisie du réseau d'eau potable en
 
 <a href="http://www.geoinformations.developpement-durable.gouv.fr/geostandard-reseaux-d-adduction-d-eau-potable-et-d-a3478.html/"><img src="https://raw.githubusercontent.com/Xueimuohtreb/RAEPA/master/img/topologie.PNG" title="Topologie" alt="Topologie"></a>
 
-"- tout objet (ponctuel ou linéaire, nœud ou arc) est en relation topologique avec au moins un autre objet
-
+    tout objet (ponctuel ou linéaire, nœud ou arc) est en relation topologique avec au moins un autre objet
     tout arc joint deux noeuds (ceux dont la localisation coïncide avec celle d'une de ses extrémités), tel l'arc H les noeuds 7 et 8 ou l'arc A les noeuds 1 et 2
     deux arcs ou plus peuvent se croiser sans être connectés, tels les arcs A et H
     un noeud:
         soit constitue une terminaison du réseau, tels les noeuds 1, 9 et 10,
         soit connecte deux arcs (tel le noeud 7 les arcs G et H) ou plus (tel le noeud 3 les arcs B, C et F) par leurs extrémités
 
-NB • La topologie ainsi définie est adaptée (mais non remise en cause) en cas de branchement individuel, lequel, lorsqu'il est géolocalisé (ce qui n'est pas toujours le cas), constitue en fait (voir B.4.2 ci-dessous) un arc en relation avec une canalisation dite principale par piquage par l'intermédiaire, au point de piquage, soit d'un noeud (coupant), soit d'un point simple (non coupant)"
+     NB • La topologie ainsi définie est adaptée (mais non remise en cause) en cas de branchement individuel, lequel, lorsqu'il est géolocalisé (ce qui n'est pas toujours le cas), constitue en fait (voir B.4.2 ci-dessous) un arc en relation avec une canalisation dite principale par piquage par l'intermédiaire, au point de piquage, soit d'un noeud (coupant), soit d'un point simple (non coupant)"
 
 
 
@@ -40,16 +39,15 @@ NB • La topologie ainsi définie est adaptée (mais non remise en cause) en ca
 
 ## Table des matières
 
-- [Pré requis](#Pré requis)
-- [Installation](#installation)
-- [Guide administrateur](#features)
-- [Guide utilisateur](#features)
-- [Améliorations possibles](#contributing)
+- [Pré-requis](#prerequis)
+- [Guide administrateur](#Guide administrateur)
+- [Guide utilisateur](#Guide utilisateur)
+- [Améliorations possibles](#Améliorations possibles)
 
 
 ---
 
-## Pré requis
+## Pré-requis <a name="prerequis"/>
 
 > Disposer de :
 
