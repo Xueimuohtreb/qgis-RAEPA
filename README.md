@@ -1,6 +1,4 @@
-<a href="http://www.grand-albigeois.fr/"><img src="https://raw.githubusercontent.com/Xueimuohtreb/RAEPA/master/img/c2a.png" title="C2A" alt="c2a"></a>
 
-***Communauté d'Agglomération de l'Albigeois***
 
 # RAEPA
 
